@@ -65,8 +65,7 @@ HireSense/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/abhirajk970/HireSense.git
-    cd HireSense
+    
     ```
 
 2.  **Install dependencies for all microservices:**
