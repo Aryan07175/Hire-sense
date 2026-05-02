@@ -65,14 +65,3 @@ HireSense/
 
 
 
-    # In backend/
-    npm run dev
-    ```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request with your proposed changes. Ensure all code follows the established formatting and passes existing tests.
-
-## 📄 License
-
-This project is licensed under the MIT License.
