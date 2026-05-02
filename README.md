@@ -61,28 +61,9 @@ HireSense/
 *   Ollama (For running LLaMA 3 locally)
 *   MongoDB instance
 
-### Installation
 
-1.  **Clone the repository:**
-    ```bash
-    
-    ```
 
-2.  **Install dependencies for all microservices:**
-    Navigate to each directory (`frontend`, `backend`, `ai-interview-backend`, etc.) and run:
-    ```bash
-    npm install
-    ```
-    *(For Python services, use `pip install -r requirements.txt`)*
 
-3.  **Environment Variables:**
-    Create a `.env` file in each respective backend service using the provided `.env.example` templates.
-
-4.  **Run the application locally:**
-    You can start the main frontend and backend services:
-    ```bash
-    # In frontend/
-    npm start
 
     # In backend/
     npm run dev
